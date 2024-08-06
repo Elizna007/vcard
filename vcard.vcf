@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Cornelia  Vas-Diass
+N;CHARSET=UTF-8:Vas-Diass;Cornelia ;;;
+GENDER:F
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@apollohotel.co.za
+LABEL;CHARSET=UTF-8;TYPE=WORK:Apollo Conferencing Hotel
+ADR;CHARSET=UTF-8;TYPE=WORK:;;158 Bram Fischer Drive;Randburg;Johannesburg;2194;South Africa
+TITLE;CHARSET=UTF-8:Mrs
+ROLE;CHARSET=UTF-8:Operations Manager
+ORG;CHARSET=UTF-8:Apollo Conferencing Hotel
+URL;type=WORK;CHARSET=UTF-8:www.apollohotel.co.za
+X-SOCIALPROFILE;TYPE=Maps:https://maps.app.goo.gl/9JFH2U5d8TvSGoVU8
+REV:2024-08-06T13:37:42.152Z
+END:VCARD
